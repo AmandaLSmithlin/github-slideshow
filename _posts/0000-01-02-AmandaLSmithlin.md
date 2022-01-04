@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Whitty context
+Whitty Amanda
 Use the left arrow to go back!
